@@ -1,0 +1,3 @@
+# Tetris
+trying to construct a Qt C++ project for game Tetris..... 
+looking forward to the accomplishment.
